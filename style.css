@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: #000;
+    display: flex;
+    color: #fff;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    height: 46.5px;
+    margin-bottom: 0;
+}
+
+.banner .imagel {
+    height: 386.5;
+    width: 100%;
+}
+.description h1, .description i, .description p{
+    margin: 15px;
+}
+.description i {
+    color: #939393;
+}
